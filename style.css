@@ -1,0 +1,167 @@
+/* CSS Document */
+BODY	{
+	margin: 0pt
+}
+
+.text_putih 	{
+	font-family:Tahoma; 
+	font-weight:regular; 
+	font-size:11px; 
+	color:#ffffff; 
+	padding-top:5px;
+	padding-left:15px;
+	padding-right:15px; 
+	text-decoration:none;
+}
+.text_merah    {
+	font-family:Tahoma; 
+	font-weight:regular; 
+	font-size:11px; 
+	color:#ff0000; 
+	text-decoration:none;
+}
+.text_biru    {
+	font-family:Tahoma; 
+	font-weight:regular; 
+	font-size:11px; 
+	color:#0000ff; 
+	text-decoration:none;
+}
+.text_hitam	{
+	font-family:Tahoma; 
+	font-weight:regular; 
+	font-size:11px; 
+	color:#000000; 
+	text-decoration:none;
+}
+.text_hitam2	{
+	font-family:Tahoma; 
+	font-weight:regular; 
+	font-size:11px; 
+	color:#000000; 
+	text-decoration:none;
+	padding-left:20px;
+
+}
+.text_putih_normal	{
+	font-family:Tahoma; 
+	font-weight:regular; 
+	font-size:11px; 
+	color:#ffffff; 
+	text-decoration:none;
+	background-color:#082044;
+}
+.text_ijo{
+	font-family:Tahoma; 
+	font-weight:regular; 
+	font-size:11px; 
+	color:#339900; 
+	text-decoration:none;
+}
+.text_menu_admin{
+	font-family:Tahoma; 
+	font-weight:regular; 
+	font-size:11px; 
+	color:#000000; 
+	text-decoration:none;
+}
+.text_menu_admin_putih{
+	font-family:Tahoma; 
+	font-weight:regular; 
+	font-size:12px; 
+	color:#ffffff; 
+	text-decoration:none;
+}
+.head_judul{
+	font-family:sans-serif; 
+	font-weight:bold; 
+	font-size:36px;
+	color:#999999; 
+	text-decoration:none;
+}
+.judul_menu{
+	font-family:Tahoma; 
+	font-weight:bold; 
+	font-size:12px;
+	color:#000000; 
+	text-decoration:none;
+	background-color:#ffcc66;
+}
+.subjudul{
+	font-family:Tahoma; 
+	font-weight:bold; 
+	font-size:12px;
+	color:#000000; 
+	text-decoration:none;
+}
+.input	{
+	BACKGROUND:#CCCCCC; 
+	font-family:Tahoma; 
+	FONT-SIZE: 11px; 
+	FONT-WEIGHT:regular
+}
+.button	{
+	BACKGROUND:#082044; 
+	BORDER-BOTTOM: #CCCCCC 1px solid; 
+	BORDER-LEFT: #CCCCCC 1px solid; 
+	BORDER-RIGHT:#CCCCCC  1px solid; 
+	BORDER-TOP: #CCCCCC 1px solid; 
+	COLOR: #ffffff; 
+	font-family:Tahoma; 
+	FONT-SIZE: 12px; 
+	FONT-WEIGHT:regular
+}
+.judul	{
+	font-family:Tahoma; 
+	font-weight:bold; 
+	font-size:18px; 
+	color:#000000;
+}
+.footer	{
+	font-family:Tahoma;
+	font-size:10px; 
+	color:#595959;
+}
+.border  { border: 1px solid #082044;} 
+.border_menu { border-left:ipx solid #000000; }
+.row_text { 
+	padding-left:30px;
+	height:16px; 
+}
+.row_table {
+	height:25px;
+	width:25px;
+}
+A.link:link {
+	PADDING-RIGHT: 2px; 
+	PADDING-LEFT: 2px; 
+	FONT-WEIGHT: regular; 
+	FONT-SIZE: 12px; 
+	PADDING-BOTTOM: 2px; 
+	COLOR: #000000; 
+	PADDING-TOP: 2px; 
+	FONT-FAMILY: Tahoma;
+	text-decoration:none;	
+}
+A.link:visited {
+	PADDING-RIGHT: 2px; 
+	PADDING-LEFT: 2px; 
+	FONT-WEIGHT: regular; 
+	FONT-SIZE: 12px; 
+	PADDING-BOTTOM: 2px; 
+	COLOR: #000000; 
+	PADDING-TOP: 2px; 
+	FONT-FAMILY: Tahoma;
+	text-decoration:none;
+}
+A.link:hover {
+	PADDING-RIGHT: 2px; 
+	PADDING-LEFT: 2px; 
+	FONT-WEIGHT: regular; 
+	FONT-SIZE: 12px; 
+	PADDING-BOTTOM: 2px; 
+	COLOR: #ff0000; 
+	PADDING-TOP: 2px; 
+	FONT-FAMILY: Tahoma; 
+	TEXT-DECORATION: none;
+}
